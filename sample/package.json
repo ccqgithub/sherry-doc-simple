@@ -1,0 +1,10 @@
+{
+  "name": "node-doc",
+  "version": "1.0.0",
+  "description": "node-doc",
+  "dependencies": {
+    "glob": "^5.0.14",
+    "juice": "^1.4.2",
+    "marked": "^0.3.5"
+  }
+}
